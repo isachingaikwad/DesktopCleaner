@@ -1,7 +1,7 @@
 import os
 import glob
 
-extension=['*.txt','*.xls','*.xlsx','*.jpeg','*.png','*.jpg','*.html','*.htm','*.docx','*.pdf','*.ppt','*.rar']
+extension=['*.txt','*.xls','*.xlsx','*.jpeg','*.png','*.jpg','*.html','*.htm','*.docx','*.pdf','*.ppt','*.rar','*.yaml']
 
 Desktop=os.getcwd()
 
